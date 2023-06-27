@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+
+.h1{
+    font-family: roboto;
+    font-size: 40px;
+    text-align: center;
+}
+
+.h2{
+    padding: 0px;
+    margin: 100px;
+    border: none;
+    text-align: left;
+    color: white;
+
+}

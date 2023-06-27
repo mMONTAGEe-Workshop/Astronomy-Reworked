@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+
+.section {
+	padding: 0px 50px 0px;
+}
+
+.column {
+  float: left;
+  width: 50%;
+}
+.columnimg{
+  float: right;
+  width: 42%;
+  height: 650px;
+  margin: 50px;
+  
+}
+
+.h2{
+  font-size: 15px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+.h1{
+    font-size: 50px;
+    text-align: center;
+}
+
+.h3{
+  font-size: 30px;
+  font-family: roboto;
+}
+
+
+.p{
+  font-size: 25px;
+  margin: 30px;
+}
+
+
+.divsun{
+  text-align: center;
+}
+
+.h1header{
+  font-family: roboto;
+  text-decoration: underline;
+  font-size: 40px;
+  text-align: center;
+}
+.miban{
+  justify-content: space-between;
+}
+
+.img{
+  color: #00ffd9;
+  border-radius: 8px;
+  box-shadow: 0 0 5px  #00ffd9 , 0 0 5px   #00ffd9, 0 0 5px  #00ffd9;
+  display: flex;
+  justify-content: center;
+}

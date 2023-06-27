@@ -1,0 +1,23 @@
+
+.div1{
+    text-align: center;
+    background-color: black;
+    color: white;
+    overflow: hidden;
+}
+
+.h1{
+    text-align: center;
+    font-family: roboto;
+    font-size: 60px;
+    margin: 20px;
+    padding: 0px;
+    border: none;
+}
+
+.h2{
+    padding: 0px;
+    margin: 20px;
+    border: none;
+    text-align: left;
+}

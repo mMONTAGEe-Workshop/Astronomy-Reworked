@@ -1,0 +1,177 @@
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+
+.header{
+    position: relative;
+    width: 100%;
+    height: 60vh;
+    background: url(C:\Users\david\Documents\astronomy-reworked\img\hotjupiter.png);
+    background-size: 100%;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.hjupiter{
+    position: relative;
+    width: 100%;
+    height: 60vh;
+    background: url(C:\Users\david\Documents\astronomy-reworked\img\hotjupiter.png);
+    background-size: 100%;
+    background-position: center;
+    background-attachment: fixed;
+    text-align: center;
+}
+
+.superearth{
+    position: relative;
+    width: 100%;
+    height: 60vh;
+    background: url(https://media.discordapp.net/attachments/1096720092374499338/1120070363896893521/scr00020.png?width=1013&height=558);
+    background-size: 100%;
+    background-position: center;
+    background-attachment: fixed;
+    text-align: center;
+}
+
+.minineptune{
+    position: relative;
+    width: 100%;
+    height: 60vh;
+    background: url(https://media.discordapp.net/attachments/1096720092374499338/1120071203026116670/scr00020.png?width=1013&height=558);
+    background-size: 100%;
+    background-position: center;
+    background-attachment: fixed;
+    text-align: center;
+}
+
+.elw{
+  position: relative;
+  width: 100%;
+  height: 60vh;
+  background: url(https://media.discordapp.net/attachments/1096720092374499338/1120081460955729940/scr00020.png?width=887&height=488);
+  background-size: 100%;
+  background-position: center;
+  background-attachment: fixed;
+  text-align: center;
+}
+
+.rogue{
+  position: relative;
+  width: 100%;
+  height: 60vh;
+  background: url(https://media.discordapp.net/attachments/1096720092374499338/1120084414995632159/scr00020.png?width=887&height=488);
+  background-size: 100%;
+  background-position: center;
+  background-attachment: fixed;
+  text-align: center;
+}
+
+.hneptune{
+  position: relative;
+  width: 100%;
+  height: 60vh;
+  background: url(https://media.discordapp.net/attachments/1096720092374499338/1120085731642179584/scr00020.png?width=887&height=488);
+  background-size: 100%;
+  background-position: center;
+  background-attachment: fixed;
+  text-align: center;
+}
+
+.terra{
+  position: relative;
+  width: 100%;
+  height: 60vh;
+  background: url(https://media.discordapp.net/attachments/1096720092374499338/1120087797995405342/scr00020.png?width=887&height=488);
+  background-size: 100%;
+  background-position: center;
+  background-attachment: fixed;
+  text-align: center;
+}
+
+.exomoon{
+  position: relative;
+  width: 100%;
+  height: 60vh;
+  background: url(https://cdn.discordapp.com/attachments/1096720092374499338/1122428406244585554/scr00031.png);
+  background-size: 100%;
+  background-position: center;
+  background-attachment: fixed;
+  text-align: center;
+}
+
+.p{
+    font-size: 25px;
+    text-align: left;
+    text-shadow: 5px 2px 4px black;
+    text-align: center;
+}
+
+.p2{
+  font-size: 25px;
+  text-align: left;
+  padding: 70px 0;
+  text-shadow: 5px 2px 4px black;
+  margin: 12px;
+}
+
+
+.section {
+	padding: 0px 50px 0px;
+}
+
+.column {
+  float: left;
+  width: 50%;
+}
+.columnimg{
+  float: right;
+  width: 42%;
+  height: 650px;
+  margin: 50px;
+  
+}
+
+.h2{
+  font-size: 15px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+.h1{
+    font-size: 50px;
+    text-align: center;
+}
+
+.h3{
+  font-size: 50px;
+  font-family: roboto;
+  padding: 70px 0;
+}
+
+
+
+.divsun{
+  text-align: center;
+}
+
+.h1header{
+  font-family: roboto;
+  text-decoration: underline;
+  font-size: 40px;
+  text-align: center;
+}
+.miban{
+  justify-content: space-between;
+}
+
+.img{
+  color: #00ffd9;
+  border-radius: 8px;
+  box-shadow: 0 0 5px  #00ffd9 , 0 0 5px   #00ffd9, 0 0 5px  #00ffd9;
+  display: flex;
+  justify-content: center;
+}

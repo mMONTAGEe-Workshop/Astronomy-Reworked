@@ -1,0 +1,14 @@
+.h1{
+    font-family: roboto;
+}
+
+.h2{
+    text-align: left;
+}
+
+.p{
+    font-size: 25px;
+    text-align: left;
+    text-shadow: 5px 2px 4px black;
+    text-align: center;
+}
