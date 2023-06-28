@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/astronomy-reworked/static/css/main.372ffd23.css",
-    "main.js": "/astronomy-reworked/static/js/main.c1c53d63.js",
+    "main.css": "/astronomy-reworked/static/css/main.a72e75df.css",
+    "main.js": "/astronomy-reworked/static/js/main.3c83caa7.js",
     "static/js/787.09674a5d.chunk.js": "/astronomy-reworked/static/js/787.09674a5d.chunk.js",
     "index.html": "/astronomy-reworked/index.html",
-    "main.372ffd23.css.map": "/astronomy-reworked/static/css/main.372ffd23.css.map",
-    "main.c1c53d63.js.map": "/astronomy-reworked/static/js/main.c1c53d63.js.map",
+    "main.a72e75df.css.map": "/astronomy-reworked/static/css/main.a72e75df.css.map",
+    "main.3c83caa7.js.map": "/astronomy-reworked/static/js/main.3c83caa7.js.map",
     "787.09674a5d.chunk.js.map": "/astronomy-reworked/static/js/787.09674a5d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.372ffd23.css",
-    "static/js/main.c1c53d63.js"
+    "static/css/main.a72e75df.css",
+    "static/js/main.3c83caa7.js"
   ]
 }
