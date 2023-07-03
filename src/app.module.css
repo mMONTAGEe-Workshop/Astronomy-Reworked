@@ -21,3 +21,33 @@
     border: none;
     text-align: left;
 }
+
+.p{
+    font-size: 25px;
+    text-align: left;
+    margin: 10px;
+}
+
+.divone{
+    position: relative;
+    height: 100%;
+    background: url(https://cdn.discordapp.com/attachments/1096720092374499338/1123516321074794506/image.png);
+    background-size: 100%;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.divtwo{
+    position: relative;
+    height: 100%;
+    background: url(https://cdn.discordapp.com/attachments/1096720092374499338/1123532830106996776/scr00039.png);
+    background-size: 100%;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.li{
+    font-size: 35px;
+    text-align: left;
+    margin: 10px;
+}

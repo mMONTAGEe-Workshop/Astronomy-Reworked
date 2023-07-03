@@ -59,9 +59,9 @@
 }
 
 .img{
-  color: #00ffd9;
+  color: black;
   border-radius: 8px;
-  box-shadow: 0 0 5px  #00ffd9 , 0 0 5px   #00ffd9, 0 0 5px  #00ffd9;
+  box-shadow: 0 0 5px  white , 0 0 5px   white, 0 0 5px  white;
   display: flex;
   justify-content: center;
 }

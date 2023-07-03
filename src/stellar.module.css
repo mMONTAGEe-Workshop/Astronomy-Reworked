@@ -21,16 +21,6 @@
     text-align: center;
   }
 
-.whitedw{
-    position: relative;
-    width: 100%;
-    height: 60vh;
-    background: url(https://cdn.discordapp.com/attachments/1096720092374499338/1123239451766820944/whitedwarf.png);
-    background-size: 100%;
-    background-position: center;
-    background-attachment: fixed;
-    text-align: center;
-  }
 
 .neutronst{
   position: relative;
@@ -43,16 +33,6 @@
   text-align: center;
 }
 
-.blackhole{
-  position: relative;
-  width: 100%;
-  height: 60vg;
-  background: url(https://cdn.discordapp.com/attachments/1096720092374499338/1123285232263647375/blackhole.png);
-  background-size: 100%;
-  background-position: center;
-  background-attachment: fixed;
-  text-align: center;
-}
   
 .p{
       font-size: 25px;
